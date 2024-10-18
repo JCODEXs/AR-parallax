@@ -1,5 +1,5 @@
 # AR-parallax
-Demo Unity app
+AR Unity app
 
 
 # Integrar Vuforia en Unity: Creación de una Aplicación de Realidad Aumentada
